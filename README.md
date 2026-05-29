@@ -1,7 +1,6 @@
-# Adrián Orta Martín 👋
-
-> 💻 **Estudiante de 1º de Desarrollo de Aplicaciones Web (DAW)**
-> 🚀 *Futuro Desarrollador Web | Apasionado por el Código y las Buenas Prácticas*
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Adri%C3%A1n%20Orta%20Mart%C3%ADn&fontSize=50&animation=fadeIn&theme=dark" alt="Banner de Adrián" />
+</p>
 
 ---
 
@@ -28,7 +27,12 @@ Estudiante de **1º de Desarrollo de Aplicaciones Web (DAW)**. Me apasiona la te
 
 ---
 
-## 📊 Mi Actividad en GitHub
+## 📊 Mis Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adrianortaaa&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de Adrián" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianortaaa&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" width="48%"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrianortaaa&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" width="97%"/>
@@ -48,7 +52,12 @@ Estudiante de **1º de Desarrollo de Aplicaciones Web (DAW)**. Me apasiona la te
 ## 📬 Cómo contactar conmigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/adrian-orta-martin-bb3268215/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>  <a href="mailto:adrianortamartin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/adrian-orta-martin-bb3268215/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:adrianortamartin@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
 <p align="center">
