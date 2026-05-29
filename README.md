@@ -60,5 +60,5 @@ Estudiante de **1º de Desarrollo de Aplicaciones Web (DAW)**. Me apasiona la te
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adrianortaaa&color=blue&style=flat&label=VISITAS+AL+PERFIL" alt="Contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=adrianortaaa&color=1F618D&style=flat&label=VISITAS+AL+PERFIL" alt="Contador de visitas" />
 </p>
