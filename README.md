@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Adri%C3%A1n%20Orta%20Mart%C3%ADn&fontSize=50&animation=fadeIn&theme=dark" alt="Banner de Adrián" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1F618D&height=200&section=header&text=Adri%C3%A1n%20Orta%20Mart%C3%ADn&fontSize=50&animation=fadeIn" alt="Banner de Adrián" />
 </p>
 
 <p align="center">
