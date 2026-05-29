@@ -56,12 +56,7 @@ Estudiante de **1º de Desarrollo de Aplicaciones Web (DAW)**. Me apasiona la te
 ## 📬 Cómo contactar conmigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/adrian-orta-martin-bb3268215/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:adrianortamartin@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+  <a href="https://www.linkedin.com/in/adrian-orta-martin-bb3268215/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>  <a href="mailto:adrianortamartin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
 <p align="center">
