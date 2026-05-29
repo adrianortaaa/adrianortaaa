@@ -34,8 +34,8 @@ Estudiante de **1º de Desarrollo de Aplicaciones Web (DAW)**. Me apasiona la te
 ## 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adrianortaaa&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de Adrián" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianortaaa&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" width="48%"/>
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=adrianortaaa&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de Adrián" width="48%"/>
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=adrianortaaa&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" width="48%"/>
 </p>
 
 <p align="center">
