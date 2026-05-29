@@ -44,7 +44,7 @@
 > [!TIP]
 > ### 🚀 Deporte Total (En desarrollo)
 > Mi proyecto web principal donde aplico los conocimientos adquiridos de maquetación y diseño interactivo.
-> 🔗 [Ver Sitio Web / Repositorio](https://adrianortaaa.github.io/Deporte-Total/index.html)
+> 🔗 [Ver Sitio Web](https://adrianortaaa.github.io/Deporte-Total/index.html)
 
 ### 🛠️ Otras Prácticas de Clase
 * **Gestión de Inventario (Java):** Aplicación de consola utilizando Programación Orientada a Objetos y colecciones. *(Próximamente)*
