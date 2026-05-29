@@ -44,7 +44,7 @@ Estudiante de **1º de Desarrollo de Aplicaciones Web (DAW)**. Me apasiona la te
 > [!TIP]
 > ### 🚀 Proyecto Estrella (En desarrollo...)
 > Aquí puedes enlazar tu mejor práctica de clase. Por ejemplo, tu proyecto de gestión de bases de datos con Java o tu primera web interactiva.
-> 🔗 [Ver Repositorio](https://adrianortaaa.github.io/Deporte-Total/index.html)
+> 🔗 [Ver Repositorio](https://adrianortaaa.github.io/Deporte-Total-1/index.html)
 
 ---
 
