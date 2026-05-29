@@ -39,11 +39,10 @@
 
 ---
 
-## 📁 Proyectos Destacados
+## 📁 Proyectos
 
-> [!TIP]
-> ### 🚀 Deporte Total (En desarrollo)
-> Mi proyecto web principal donde aplico los conocimientos adquiridos de maquetación y diseño interactivo.
+> ### 🚀 Deporte Total
+> Mini proyecto realizado en las prácticas para el módulo de Lenguajes de Marca donde aplico los conocimientos adquiridos de maquetación y diseño interactivo.
 > 🔗 [Ver Sitio Web](https://adrianortaaa.github.io/Deporte-Total/index.html)
 
 ### 🛠️ Otras Prácticas de Clase
