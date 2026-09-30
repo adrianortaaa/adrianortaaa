@@ -10,11 +10,11 @@
 
 ## ⚡ Sobre Mí
 
-¡Hola! 👋 Soy estudiante de **2º de Desarrollo de Aplicaciones Web (DAW)**. Me apasiona la tecnología y actualmente estoy enfocado en construir unos cimientos sólidos en el desarrollo de software, la gestión de bases de datos y las buenas prácticas de programación.
+¡Hola! 👋 Soy Adrián, estudiante de 2º de Desarrollo de Aplicaciones Web (DAW). Actualmente estoy consolidando el uso de diversos lenguajes de programación adaptados a sus distintos entornos y finalidades. Tengo muchísimas ganas de dar el salto y empezar a aportar valor en el mundo laboral tech, afrontando nuevos retos reales de desarrollo.
 
-* 🏫 **Actualidad:** Cursando segundo año de DAW, absorbiendo lógica y estructura.
-* 🎯 **Meta a corto plazo:** Dominar la Programación Orientada a Objetos (POO) y el diseño eficiente de bases de datos relacionales.
-* 💬 **Hablemos de:** Cualquier reto o aprendizaje relacionado con Java, SQL, JavaScript, HTML o CSS.
+* 🏫 **Actualidad:** Cursando 2º de DAW, enfocándome en arquitectura web y buenas prácticas.
+* 🎯 **Meta a corto plazo:** Integrarme en un equipo técnico profesional donde seguir aprendiendo y construyendo software de calidad.
+* 💬 **Hablemos de:** PHP, JavaScript moderno, Python, bases de datos y desarrollo web en general.
 
 ---
 
