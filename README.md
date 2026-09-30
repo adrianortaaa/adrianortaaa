@@ -3,16 +3,16 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=1F618D&center=true&vCenter=true&width=435&lines=Estudiante+de+1%C2%BA+DAW+%F0%9F%92%BB;Futuro+Desarrollador+Web+%F0%9F%9A%80;Apasionado+por+el+C%C3%B3digo+%E2%9A%A1" alt="Animación de texto indicando rol" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=1F618D&center=true&vCenter=true&width=435&lines=Estudiante+de+2%C2%BA+DAW+%F0%9F%92%BB;Futuro+Desarrollador+Web+%F0%9F%9A%80;Apasionado+por+el+C%C3%B3digo+%E2%9A%A1" alt="Animación de texto indicando rol" />
 </p>
 
 ---
 
 ## ⚡ Sobre Mí
 
-¡Hola! 👋 Soy estudiante de **1º de Desarrollo de Aplicaciones Web (DAW)**. Me apasiona la tecnología y actualmente estoy enfocado en construir unos cimientos sólidos en el desarrollo de software, la gestión de bases de datos y las buenas prácticas de programación.
+¡Hola! 👋 Soy estudiante de **2º de Desarrollo de Aplicaciones Web (DAW)**. Me apasiona la tecnología y actualmente estoy enfocado en construir unos cimientos sólidos en el desarrollo de software, la gestión de bases de datos y las buenas prácticas de programación.
 
-* 🏫 **Actualidad:** Cursando primer año de DAW, absorbiendo lógica y estructura.
+* 🏫 **Actualidad:** Cursando segundo año de DAW, absorbiendo lógica y estructura.
 * 🎯 **Meta a corto plazo:** Dominar la Programación Orientada a Objetos (POO) y el diseño eficiente de bases de datos relacionales.
 * 💬 **Hablemos de:** Cualquier reto o aprendizaje relacionado con Java, SQL, JavaScript, HTML o CSS.
 
