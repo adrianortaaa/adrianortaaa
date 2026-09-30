@@ -41,15 +41,16 @@
 
 ---
 
-## 📁 Proyectos
+## 📁 Proyectos Destacados
 
-> ### 🚀 Deporte Total7
-> Mini proyecto realizado en las prácticas para el módulo de Lenguajes de Marca donde aplico los conocimientos adquiridos de maquetación y diseño interactivo.
-> 🔗 [Ver Sitio Web](https://adrianortaaa.github.io/Deporte-Total/index.html)
+> ### 🚀 Deporte Total (Frontend & UI)
+> Mini Proyecto Web interactivo enfocado a la maquetación, diseño responsive y experiencia de usuario fluida, desarrollado como parte de mis prácticas formativas en 1º.
+> * **Tecnologías:** HTML5, CSS3, JavaScript.
+> * 🔗 [Ver Sitio Web](https://adrianortaaa.github.io/Deporte-Total/index.html) | 📂 [Ver Repositorio](https://github.com/adrianortaaa/Deporte-Total)
 
-### 🛠️ Otras Prácticas de Clase
-* **Gestión de Inventario (Java):** Aplicación de consola utilizando Programación Orientada a Objetos y colecciones. *(Próximamente)*
-* **Consultas de Base de Datos (MySQL):** Diseño de esquemas y optimización de consultas complejas para entornos de gestión. *(Próximamente)*
+> ### 🛠️ Próximamente: Aplicaciones Full-Stack & Backend
+> Actualmente desarrollando proyectos prácticos en **PHP (Entorno Servidor)** y **Python**, implementando conexión a bases de datos relacionales (MySQL) y despliegue de entornos web. ¡Muy pronto disponibles en mi perfil!
+
 
 ---
 
