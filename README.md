@@ -45,12 +45,6 @@
 > Mini proyecto realizado en las prácticas para el módulo de Lenguajes de Marca donde aplico los conocimientos adquiridos de maquetación y diseño interactivo.
 > 🔗 [Ver Sitio Web](https://adrianortaaa.github.io/Deporte-Total/index.html)
 
-> ### 🚀 Regalo de Cumple de Mi Gordiiii
-> 🔗 [Ver Sitio Web](https://adrianortaaa.github.io/Felicitacion/)
-
-> ### 🚀Contador
-> 🔗 [Ver Sitio Web](https://adrianortaaa.github.io/Contador/)
-
 ### 🛠️ Otras Prácticas de Clase
 * **Gestión de Inventario (Java):** Aplicación de consola utilizando Programación Orientada a Objetos y colecciones. *(Próximamente)*
 * **Consultas de Base de Datos (MySQL):** Diseño de esquemas y optimización de consultas complejas para entornos de gestión. *(Próximamente)*
